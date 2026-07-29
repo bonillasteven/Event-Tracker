@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Anna Birthday",
+        "date": "05/28/2026",
+        "time": "05:30",
+        "location": "Golden Valley",
+        "description": "Anna 25th birthday"
+    },
+    {
+        "title": "Allison 18th birthday",
+        "date": "08/14/2026",
+        "time": "05:00",
+        "location": "Backyard",
+        "description": "Bring Cake"
+    },
+    {
+        "title": "Doctor",
+        "date": "06/16/2026",
+        "time": "03:30",
+        "location": "Clinic",
+        "description": "Annual check up"
+    }
+]
